@@ -16,7 +16,7 @@ To Design and simulate the logic diagram using Verilog.
 Quartus prime
 
 ### LOGIC DIAGRAM:
-![image](https://github.com/Jaiganesh235/Q13/assets/118657189/bd9cebcc-2c5f-47e7-9e60-30981a986f0b)
+![image](https://github.com/DEEPAK2200233/Simulation-project--Digital-Electronics/assets/118707676/0d147e54-4c44-44c2-9a7d-c59fd44eed05)
 
 
 ### Procedure:
@@ -44,11 +44,11 @@ End the module.
 ### PROGRAM:
 ```
 Program to To Design and simulate the logic diagram using Verilog.
-Developed by: S.DEEPAK
+Developed by: S.DEEPAK RAJ
 RegisterNumber: 212222240023
 
 ```
-![image](https://github.com/Jaiganesh235/Q13/assets/118657189/e66dfc75-a7d1-4a7e-8a2f-9a094b9dcc3c)
+![image](https://github.com/DEEPAK2200233/Simulation-project--Digital-Electronics/assets/118707676/bc89a11e-6e6b-425e-88b3-845c3648f726)
 
 
 
@@ -56,18 +56,15 @@ RegisterNumber: 212222240023
 
 
 ### RTL LOGIC:
-![image](https://github.com/Jaiganesh235/Q13/assets/118657189/3886ba3c-0b5f-4122-adfc-59292715c195)
-
+![image](https://github.com/DEEPAK2200233/Simulation-project--Digital-Electronics/assets/118707676/a52a4655-507c-4ebc-b4a3-d96e6a91b961)
 
 
 ### TIMING DIGRAMS: 
-![image](https://github.com/Jaiganesh235/Q13/assets/118657189/5811342c-8e1a-427a-bfe6-02d769e5f039)
-
+![image](https://github.com/DEEPAK2200233/Simulation-project--Digital-Electronics/assets/118707676/4634b2d0-de6b-4b06-8512-4376da55f016)
 
 
 ### TRUTH TABLE:
-![image](https://github.com/Jaiganesh235/Q13/assets/118657189/eb1ff298-30b6-4b8c-943f-ebfd59e9e9c0)
-
+![image](https://github.com/DEEPAK2200233/Simulation-project--Digital-Electronics/assets/118707676/4912e55a-5d72-4f62-a13e-983aa39ac570)
 
 
 
