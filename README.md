@@ -44,7 +44,7 @@ End the module.
 ### PROGRAM:
 ```
 Program to To Design and simulate the logic diagram using Verilog.
-Developed by: S.DEEPAK RAJ S
+Developed by: S.DEEPAK
 RegisterNumber: 212222240023
 
 ```
